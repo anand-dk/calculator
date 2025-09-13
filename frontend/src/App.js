@@ -140,7 +140,7 @@ function App() {
   return (
     <div className="App">
       <div className="calculator-container">
-        <h1 className="calculator-title">A Simple Calculator</h1>
+        <h1 className="calculator-title">A Beautiful Calculator</h1>
         <div className="calculator">
           <div className="keyboard-hint">
             ⌨️ Use keyboard for input

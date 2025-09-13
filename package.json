@@ -1,0 +1,13 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A beautiful glassy calculator built with React",
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm start",
+    "install": "cd frontend && npm install"
+  },
+  "keywords": ["calculator", "react", "glassmorphism", "vercel"],
+  "author": "anand-dk",
+  "license": "MIT"
+}
